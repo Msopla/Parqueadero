@@ -1,0 +1,14 @@
+# Archivos generados por Java y Eclipse
+/bin/
+/target/
+/build/
+*.class
+/.metadata/
+
+# Datos locales creados al ejecutar el programa
+/datos/
+*.tmp
+
+# Archivos del sistema
+Thumbs.db
+.DS_Store
